@@ -1,0 +1,12 @@
+
+h1{font-size: 50pt;}
+div{
+    500:px;
+    background-color: rgb(76, 15, 219);
+    display: flex;
+    flex-direction: column;    
+
+    grid-template-columns: 100px 100px 100px;
+    align-items: center;
+}
+
